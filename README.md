@@ -1,2 +1,2 @@
-# aws-ecs-docker
-deploy docker container to a ecs cluster.
+# AWS ECS 
+Deploying docker container to an ECS cluster.

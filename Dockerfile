@@ -1,3 +1,4 @@
+#!/bin/bash
 FROM node:alpine
 
 WORKDIR /express-app
